@@ -1,0 +1,125 @@
+{
+   "checksum": "7c04ab1575f4693df22b9118fd6205d8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13238542445358847",
+            "guid": "6f85bcb0-63e4-41ee-9042-e11612448b97",
+            "id": "13",
+            "name": "Caixa de entrada - jopebeol@gmail.com - Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13254275982896429",
+            "guid": "aed9ae1b-a0b4-4bbb-aaf1-9946201ae923",
+            "id": "14",
+            "name": "Aula 14 - Estrutura de repetição while - Curso em Vídeo",
+            "type": "url",
+            "url": "https://www.cursoemvideo.com/course/python-3-mundo-2/aulas/repeticoes-em-python-while/modulos/aula-14-estrutura-de-repeticao-while/"
+         }, {
+            "date_added": "13259495695598340",
+            "guid": "b868cafa-d164-4114-81bd-c8ae6bb7bc1b",
+            "id": "15",
+            "name": "Contabilidade sem Segredos",
+            "type": "url",
+            "url": "https://contabilidadesemsegredos.thinkific.com/courses/take/formacao-completa-de-irs/lessons/21387961-bem-vindo-ao-curso-de-irs"
+         }, {
+            "date_added": "13265044187325140",
+            "guid": "20e8c153-bf84-4172-91a1-9355763512e4",
+            "id": "16",
+            "name": "Releases · Jyers/Marlin · GitHub",
+            "type": "url",
+            "url": "https://github.com/Jyers/Marlin/releases"
+         }, {
+            "date_added": "13285098063174203",
+            "guid": "470f4aeb-03a5-43da-bcb8-cc426919165c",
+            "id": "18",
+            "name": "Git Bare Repository - A Better Way To Manage Dotfiles - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tBoLDpTWVOM"
+         } ],
+         "date_added": "13284180860170609",
+         "date_modified": "13285098063174203",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13284180860170614",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13214788276152371",
+            "guid": "aae7ee8c-c72e-4521-b4cb-7b14d2e99148",
+            "id": "5",
+            "name": "O que visitar em Viseu, a \"melhor cidade para viver\" em Portugal",
+            "type": "url",
+            "url": "https://gotoportugal.eu/pt/visitar-viseu-portugal/"
+         }, {
+            "date_added": "13219627406099857",
+            "guid": "8a3b49c0-4a5e-40ea-bd09-34fdb152b73c",
+            "id": "6",
+            "name": "59m:50s - FreeBitco.in - Win free bitcoins every hour!",
+            "type": "url",
+            "url": "https://freebitco.in/?op=home"
+         }, {
+            "date_added": "13223831849803445",
+            "guid": "89ac711e-a1eb-4cbe-94b2-4a9ac730248c",
+            "id": "7",
+            "name": "Top Plataformas - Lucrar.pt",
+            "type": "url",
+            "url": "https://lucrar.pt/top-plataformas/"
+         }, {
+            "date_added": "13229475601443665",
+            "guid": "532a8297-174c-4af0-a5c3-a1ca10d3d34e",
+            "id": "8",
+            "name": "Como fazer a análise fundamentalista de uma forma bastante prática",
+            "type": "url",
+            "url": "https://investidordesucesso.com.br/bolsa-de-valores/como-fazer-uma-analise-fundamentalista/"
+         }, {
+            "date_added": "13277233738265131",
+            "guid": "85ad8a22-cf3f-46af-968e-f9fe069b4175",
+            "id": "9",
+            "name": "Door Retaining Catch by ZacSimmo - Thingiverse",
+            "type": "url",
+            "url": "https://www.thingiverse.com/thing:4721582"
+         }, {
+            "date_added": "13278544509857141",
+            "guid": "c550a0ea-4c25-4205-a284-39810cb2fb86",
+            "id": "10",
+            "name": "Estoril Sol Casinos Portugal - ESC Online",
+            "type": "url",
+            "url": "https://www.estorilsolcasinos.pt/pt"
+         }, {
+            "date_added": "13278793311178241",
+            "guid": "cf3baa38-7065-4b98-92d9-470a8ae03d04",
+            "id": "11",
+            "name": "Novo separador",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13280970525670072",
+            "guid": "e83f58e2-a1d3-4748-baaa-0b2f204c7931",
+            "id": "12",
+            "name": "7 Regras básicas para combinar acessórios para homem",
+            "type": "url",
+            "url": "https://www.trendhim.pt/articles/190/7-regras-basicas-para-combinar-acessorios-para-homem"
+         } ],
+         "date_added": "13284180860170624",
+         "date_modified": "13280970525670072",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Marcadores telemóvel",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqmnLXNv18AAAAAEgAaWHpkMGNRWC9PTGRkcTJET2VJV2tucVdsTXJsdGZFK2JuKy9NZFpyNlR1c3B6ZEhwUms2TEdFVlMvb3BNcURzaHhSZ2VDZiszZkh4RXNJZ1pBbHB1L0VRPT0gASoYMy9hS280R1R4bC93cHlyL3dONE9YUT09EqoBCBASpQEKHHVzRDJ4SCt5b1dmdFYrVUxhaWluWkR0UFRiOD0SJDAxOTE4YjI1LTkxNTMtNDllMi1hYzk5LTRhYzEyOTQyOTU4YxgAIAMoAzDGhv2k3i84voGjjJUvQJDx/KTeL0ocNDhIZG5CblF4MGtqbXpkdit3TVF1QjNZbmFnPVohIh///7NQcnowRm5renMweXZxaFE4eVF6TzV0M0ZUUVU9ZQgMSi4SqAEIDhKjAQocOEJkMi9KakMvZ2lYaW43ZjFsT0Z6YjJSMzRRPRIkODk5OWJlODUtN2U4MC00ODk0LWFmZWQtODZkZDA5YTg3MTdjGAAgAigCMKuPs7HcLzjJ/Mv97C5Ay4izsdwvShxCeFhraUQ2YnFEcjZndDhmdHBGZnJhcExxU2s9Wh8iHaU3QUtENEZpb0gxTlduWkZCUkI4SzdxTzlNZm89ZSrxWE0SowEIBRKeAQocZ0NFdHJwTUpVSnoybkYwWURmbldsVkhmQm5JPRIkMTVjMjU2YWEtYmQxYi00NWFiLWI3YWUtOWQ2N2EyZGUyZTc2GAAgACgAMAM40eXmjb8uQNHl5o2/LkocK2t1NHk4VlVFTTJLTnpkM1J5TTlJbVNsN0pFPVofIh3rRzl0dDF6Q3JYc1k2K2ltL25iV3VIMFpCZUkwPWVFYPK/EoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNWU2Y2E0NTAtNGZlOS00ZDQ1LWJkMGMtNTMzYmRhZTk4ZGRmGAAgACgAMAE4gtvmjb8uQILb5o2/Lkocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEIDRKiAQocT1YzMWFRamROY3l1N3BMYi9HWThTcm1aU3NVPRIkMWUxMWQ5NzEtYTAzMy00NGIzLWFkNDktMDZlZjA2ZmFmYTNjGAAgDigOMPicufHcLzjx45Ttvy5A6IW58dwvShxmTzFzVkh0QVNUK1E3NmVUMi9zTktWYno1Mmc9Wh4iHE0xckh2QUt6aWtDaHVHaFlpRy9pRUt6dXoyQT1lbI70TBKoAQgMEqMBChx6NzJJVkgrN1dwczJ2d2tsUWdqbDlqb0x6SUk9EiRkYjJkMjIxOS1kYTYzLTRmNjAtODNhMi00NzVlZmUxMGQ5NGIYACAAKAAwwu3j1tEvOOjHxbbQL0Dox8W20C9KHHBHUzlScTRSWTEyeHh6eDZaK3Z0U2FKL0tzQT1aHyId/1o0OTJ0UFZLSG5JVWpzdnVxaUErR2RGalQ5WT1lufaPexKqAQgSEqUBChx5N2VraUk5bnJBSVBFbC9QT0dobDhLRURPeVU9EiQxZDFmZDg2MC0wYTcyLTQyNTUtYTBlNy1kMzM1YmJlZjdkZjAYACACKAIwk87a5t8vOMe62ubfL0DWu9rm3y9KHFIzcjZ5dndNQmdHT2Z1c3ZwQWFmRWJ5cys1QT1aISIf///ZWlE4YXdFSVlVdE14a2d1cUVUc1RWMmpOd3JZPWU4+TkzEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNzYxYmE3YzUtYWE3OC00YWZiLTg2NzQtYjc3NTg3ZGVkMTY4GAAgACgAMAE4gtvmjb8uQILb5o2/LkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIChKjAQocNG9RbnN1Z2hlQi9OVjl4THhub1V1ZUpULzRJPRIkZDkyM2I4MWQtZDIxNS00NjY0LTg3ZDMtMjRhMDk0ZDNmYzNmGAAgACgAMN6e3rHHLzitp92xxy9ArafdsccvShxwUjJsK0Y0SFV6Y3pnV1lNU2xEbE81VkpDS0U9Wh8iHf8zZW1SUWVtN3JqaUpPclYrcnZyRmMzREJLQ2s9ZTGwnT4SowEIBhKeAQocVU5uMU1Da05YNGdoNnQ0SjYzMC9iakx0eGpZPRIkMGQ4MGFmZjEtM2FiMC00MjNlLThmMjMtNWRmMzRmMjMwNjY5GAAgACgAMAM40eXmjb8uQNHl5o2/LkocL3R6Rm91eWV1UmUvek1NcFNOWWQ4dXJQRytzPVofIh31dE5lOWdQdm5MMlpqSWJMTHNpZW1lYkNEVnBJPWUjHdFUEqkBCA8SpAEKHGFuYStvVmYvWjFrRlpnbzJLZEtGVnlEUVRvVT0SJDg2YjE4NTM3LThmYjMtNGRlMC05NzgwLTRkNzE3ZWM5NDAxNRgAIAIoAjClj7Ox3C847/nFtoAvQMyIs7HcL0ocWkh6ZUF2UGpEYUk3YW5vd0wxb002MUhYSnpNPVogIh7/7nExb0FUMUhHOGg0RFFzNnYrUDI5ckw3bHpJaz1lg0ZcvhKjAQgIEp4BChx3aU5ZVk43WFJEMjNUYy9SdVJ5emlkU2tSc2s9EiQ2NGIzYzhhNC03YmNjLTQzY2ItYjI5Yi05MzExOThiNTAxNTgYACAAKAAwAzjR5eaNvy5A0eXmjb8uShx4RUtndVk5R3Nidi9kVDh2VXNOTGZURXp5NzQ9Wh8iHf03c2daQm9vZWJYNXcxaVQyTEdwbWg0KzJ4cTA9ZVTiuOMSqAEICRKjAQocaHh4UEZNWjZYcDFDL2VQTThnQU94TnN0T1cwPRIkYzg4NmYxMTktY2EwMC00YTIxLTkwYzgtYjMyZmI3ZjRjY2U4GAAgACgAMNHZoLfOLziblNrAwi9Am5TawMIvShxENXlxMk1wc1JtRmFDVHRLb3JWZkNPbEdHdHM9Wh8iHf5ldmFsd3VrYmt6ay9hZ3QzYmdHMzQ1TEdlTFk9ZROfLSkSowEIBxKeAQocUjJpYzhDZDRSMEVTVDF2NHZJNjNXT0FWQWhBPRIkODI4MzNjY2ItMzhjNC00NjNiLTk3N2YtNTE3YzQ4ZTk1YjA0GAAgACgAMAM40eXmjb8uQNHl5o2/LkocQ0hJSzYzb0lhckFIL2U3MDlFdFcxQllVZ1JrPVofIh36a1RUL0pZakFEcHRObERWNGVVekJpRklUOS9rPWXdBmIFEqgBCAsSowEKHHIwLzd1emVnNEFjamV0bUNJTTVsSGRaQ05Scz0SJDljMjJjZjk3LWI5NzEtNDZkZS05NzliLThkNzBmYWQzOTQ1MRgAIAAoADCWmPapyC84zveuqMgvQM73rqjIL0ocY3lMTnF4ZktNVm1uR0VURzA3amNIQTR3NE5jPVofIh3/TUhLN3VvYmZjSk4xZmVsMXFJZVhVNU92SmpBPWUAAAAAEoMBCAMSfwocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYTQ3MzAzY2EtM2JiMS00NWFhLTgwZWUtY2I1ZTRmMTBmNzhjGAAgACgAMAE4gtvmjb8uQILb5o2/LkoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAgh9Tb5t8vMAA=",
+   "version": 1
+}

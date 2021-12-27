@@ -1,0 +1,25 @@
+2021/12/27-16:59:01.676 15ab Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-16:59:01.679 15ab Recovering log #53
+2021/12/27-16:59:01.727 15ab Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000053.log 
+2021/12/27-17:01:05.698 6b5 Level-0 table #58: started
+2021/12/27-17:01:05.901 6b5 Level-0 table #58: 1072974 bytes OK
+2021/12/27-17:01:05.909 6b5 Delete type=0 #53
+2021/12/27-17:01:40.341 688 Level-0 table #60: started
+2021/12/27-17:01:40.346 688 Level-0 table #60: 19920 bytes OK
+2021/12/27-17:01:40.353 688 Delete type=0 #57
+2021/12/27-17:01:40.353 688 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0f\x01\x1f\x03\x00\xd8e\x0a\xfaSxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 72751 : 0
+2021/12/27-17:01:40.353 688 Compacting 1@0 + 1@1 files
+2021/12/27-17:01:40.372 688 Generated table #61@0: 1664 keys, 48414 bytes
+2021/12/27-17:01:40.372 688 Compacted 1@0 + 1@1 files => 48414 bytes
+2021/12/27-17:01:40.375 688 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/27-17:01:40.376 688 Delete type=2 #58
+2021/12/27-17:01:40.376 688 Delete type=2 #60
+2021/12/27-17:01:40.377 688 Manual compaction at level-0 from '\x00\x0f\x01\x1f\x03\x00\xd8e\x0a\xfaSxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 72751 : 0 .. (end); will stop at (end)
+2021/12/27-17:01:40.377 688 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0f\x01\x1f\x03f\x9e\xf9"EUxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 71159 : 1
+2021/12/27-17:01:40.377 688 Compacting 1@1 + 1@2 files
+2021/12/27-17:01:40.383 688 Generated table #62@1: 328 keys, 39117 bytes
+2021/12/27-17:01:40.383 688 Compacted 1@1 + 1@2 files => 39117 bytes
+2021/12/27-17:01:40.394 688 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/27-17:01:40.395 688 Delete type=2 #55
+2021/12/27-17:01:40.395 688 Delete type=2 #61
+2021/12/27-17:01:40.402 688 Manual compaction at level-1 from '\x00\x0f\x01\x1f\x03f\x9e\xf9"EUxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 71159 : 1 .. (end); will stop at (end)

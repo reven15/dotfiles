@@ -1,0 +1,6 @@
+2021/12/27-15:48:06.578 696 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/12/27-15:48:06.581 696 Recovering log #85
+2021/12/27-15:48:06.582 696 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000085.log 
+2021/12/27-16:40:39.746 688 Level-0 table #89: started
+2021/12/27-16:40:39.759 688 Level-0 table #89: 69545 bytes OK
+2021/12/27-16:40:39.764 688 Delete type=0 #85

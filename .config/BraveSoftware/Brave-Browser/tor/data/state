@@ -1,0 +1,42 @@
+# Tor state file last generated on 2021-12-18 18:46:48 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 175 18
+CircuitBuildTimeBin 225 15
+CircuitBuildTimeBin 275 14
+CircuitBuildTimeBin 325 10
+CircuitBuildTimeBin 375 8
+CircuitBuildTimeBin 425 2
+CircuitBuildTimeBin 475 5
+CircuitBuildTimeBin 525 2
+CircuitBuildTimeBin 575 2
+CircuitBuildTimeBin 625 2
+CircuitBuildTimeBin 675 1
+CircuitBuildTimeBin 725 4
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 7675 1
+Dormant 0
+Guard in=default rsa_id=E7EF73B4722CFAF0E8AA2151D3AA78701DE5F19B nickname=Silverwing sampled_on=2021-12-07T04:26:52 sampled_idx=0 sampled_by=0.4.5.11 listed=1 confirmed_on=2021-12-08T01:24:50 confirmed_idx=0 pb_use_attempts=10.000000 pb_use_successes=10.000000 pb_circ_attempts=88.000000 pb_circ_successes=85.000000 pb_successful_circuits_closed=85.000000 pb_timeouts=2.000000
+Guard in=default rsa_id=7A5F99AA1E889B555ECFB5AF0740CEF118FF6754 nickname=dogenode sampled_on=2021-12-10T13:48:17 sampled_idx=1 sampled_by=0.4.5.11 listed=1 confirmed_on=2021-12-10T09:36:10 confirmed_idx=1
+Guard in=default rsa_id=D7829A21726220AF77401BE5B2B132963A0BE82B nickname=niceRelay sampled_on=2021-12-09T19:57:27 sampled_idx=2 sampled_by=0.4.5.11 listed=1 confirmed_on=2021-12-13T10:32:47 confirmed_idx=2
+Guard in=default rsa_id=D5A2B3AE1E8047017A0BBC7209FD624DB84D47CE nickname=komeru2 sampled_on=2021-12-17T23:45:00 sampled_idx=3 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=A6C3B64EC8EE20D77987EBC5E894CA6CCE4B5295 nickname=OwlRelay sampled_on=2021-12-10T08:09:06 sampled_idx=4 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=BA2575B9E13EBA158FD916394C5046A6BD6F6198 nickname=WWW sampled_on=2021-12-18T12:01:53 sampled_idx=5 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=86CDD0D92AB972538416A382D99666736CDDF141 nickname=RyderIII sampled_on=2021-12-14T02:24:54 sampled_idx=6 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=1DC17C4A52A458B5C8B1E79157F8665696210E10 nickname=kraghtorn sampled_on=2021-12-11T21:17:54 sampled_idx=7 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=FA1845C313B88EF49E8BE1F23B02CD0AC702B636 nickname=arbitraryKenzie2 sampled_on=2021-12-10T00:45:26 sampled_idx=8 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=88D5F0BD87F9BC1A96FCBFDCEDB1C0E6BAB1D14E nickname=DiraE2yhvB sampled_on=2021-12-14T07:20:47 sampled_idx=9 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=CEC92F3BE8A2F3A46D3C042721D6BDBF2F40F4C5 nickname=boardwalk sampled_on=2021-12-10T21:37:37 sampled_idx=10 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=6055FE90C18DD4B2593A9D0E02DDC4D68E9BA62E nickname=elects2 sampled_on=2021-12-07T23:59:53 sampled_idx=11 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=38EC34A6892510AC660BEFEA82D4E155CFE2A911 nickname=ax03 sampled_on=2021-12-10T06:33:34 sampled_idx=12 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=E4BFAD49D21D3838485C62D84293A97DAAAA35B7 nickname=bauruine sampled_on=2021-12-17T00:33:59 sampled_idx=13 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=D5F09497548A39071D14AC9E9AA926A0F8A748F2 nickname=bauruine sampled_on=2021-12-11T15:14:15 sampled_idx=14 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=3F261CCAD2F17B26DC30DCC875A70636DA8C2B10 nickname=sn0rlax sampled_on=2021-12-08T08:28:51 sampled_idx=15 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=CC09DFB016081AD50686DAC96440BB2D6F343251 nickname=KagamineLenAkari sampled_on=2021-12-18T13:05:43 sampled_idx=16 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=DACD12B3B304459053BDF625872F2416370AEEAA nickname=Satoshi sampled_on=2021-12-09T01:17:01 sampled_idx=17 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=7F7D4C2178E115D8E72B809E6B37C2F88CE7A546 nickname=ArmanixTorRelay sampled_on=2021-12-16T01:58:42 sampled_idx=18 sampled_by=0.4.5.11 listed=1
+Guard in=default rsa_id=856B7EFB7E09D02A29DD2FF024B7E1EFE21FE9EB nickname=Piratenpartei02 sampled_on=2021-12-12T02:07:29 sampled_idx=19 sampled_by=0.4.5.11 listed=1
+LastWritten 2021-12-18 18:46:48
+TorVersion Tor 0.4.5.11
+TotalBuildTimes 85
